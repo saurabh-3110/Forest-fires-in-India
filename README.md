@@ -1,8 +1,11 @@
-# Forest Fire Hotspot Analysis in India 
-
-## 🛰️ Project Overview
-
+# 🔥 Forest Fire Hotspot Analysis in India 🇮🇳
 This project focuses on identifying and analyzing forest fire hotspots across India using geospatial data and satellite remote sensing techniques. This project was conducted as a term project for the EES 654 (Geoinformatics) course under the guidance of Dr. Somil Swarnkar at the Indian Institute of Science Education and Research, Bhopal. The study aims to provide insights into the spatial and temporal patterns of forest fires, enabling effective management and conservation strategies. The analysis covers the period from January 2001 to July 2024 and utilizes data from NASA's Fire Information for Resource Management System (FIRMS) and MODIS sensor data for forest cover fraction.
+## 📋 Table of Contents
+* [Objectives](#-objectives)
+* [Data Sources](#-data-sources)
+* [Methodology](#️-methodology)
+* [Key Findings](#-key-findings)
+* [Future Work](#-future-work)
 
 ## 🎯 Objectives
 
